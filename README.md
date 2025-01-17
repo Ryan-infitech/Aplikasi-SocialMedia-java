@@ -2,7 +2,7 @@
 
 Aplikasi social media sederhana yang dibangun menggunakan Java dengan antarmuka grafis (GUI) menggunakan JFrame Form. Aplikasi ini mengintegrasikan AWS DynamoDB sebagai database untuk menyimpan data pengguna dan konten social media.
 
-![ss](./media/register page.png)
+![ss](./readme%20media/register%20page.png)
 
 ## Fitur Utama
 
@@ -10,16 +10,20 @@ Aplikasi social media sederhana yang dibangun menggunakan Java dengan antarmuka 
 - **Registrasi**: Pengguna baru dapat membuat akun dengan mengisi informasi yang diperlukan
 - **Login**: Sistem autentikasi untuk pengguna yang sudah terdaftar
 
+  ![](./readme%20media/RunSocialMedia.gif)
+
 ### 2. Beranda
 - Melihat postingan dari semua pengguna
 - Membuat postingan baru
 - Berinteraksi dengan postingan:
 
+  ![](./media/beranda.png)
+
 
 ### 3. Sistem Pesan
 - Mengirim pesan pribadi ke pengguna lain
 - Melihat riwayat percakapan
-
+  ![](./media/beranda.png)
 ## Teknologi yang Digunakan
 
 - **Backend & Frontend**: Java
