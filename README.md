@@ -2,7 +2,7 @@
 
 Aplikasi social media sederhana yang dibangun menggunakan Java dengan antarmuka grafis (GUI) menggunakan JFrame Form. Aplikasi ini mengintegrasikan AWS DynamoDB sebagai database untuk menyimpan data pengguna dan konten social media.
 
-https://github.com/Ryan-infitech/Aplikasi-SocialMedia-java/blob/main/media%20README.MD/register%20page.png?raw=true
+![ss](./media/register page.png)
 
 ## Fitur Utama
 
