@@ -11,11 +11,11 @@ public class DynamoDBConfig {
     public static DynamoDB getConnection() {
         try {
             // Inisialisasi kredensial AWS secara langsung
-            BasicAWSCredentials credentials = new BasicAWSCredentials("AKIAZAI4HB6HIQOTKD5L", "Cw/GSAZpagvky2+xjBPO2QuwXLrdgY4DNAikd25N");
+            BasicAWSCredentials credentials = new BasicAWSCredentials("aws.accessKey", "aws.secretKey");
             
             // Membangun klien DynamoDB dengan region dan kredensial yang ditentukan
             AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()
-                .withRegion("ap-southeast-1") 
+                .withRegion("aws.region") 
                 .withCredentials(new AWSStaticCredentialsProvider(credentials))
                 .build();
             
