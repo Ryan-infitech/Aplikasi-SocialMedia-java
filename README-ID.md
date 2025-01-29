@@ -1,3 +1,10 @@
+<div align="right">
+
+<a href="README.md"><img src="https://flagcdn.com/w40/gb.png" width="25"></a> | <a href="README-ID.md"></a><img src="https://flagcdn.com/w40/id.png" width="20"></a>
+
+
+</div>
+
 # Aplikasi Social Media Java
 
 Aplikasi social media sederhana yang dibangun menggunakan Java dengan antarmuka grafis (GUI) menggunakan JFrame Form. Aplikasi ini mengintegrasikan AWS DynamoDB sebagai database untuk menyimpan data pengguna dan konten social media.
